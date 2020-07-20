@@ -1,6 +1,7 @@
 # Game-Where-is-my-home-
 Global Game Jam 2019 (48 hours developing)
 
+TO DOWNLOAD RELEASE AND SOURCE CODE: https://globalgamejam.org/2019/games/where-my-home-0
 
 Description:
 Familly with their house was stollen by UFO, and child will help them return on the Earth. The idea was : The home for us means our family. The game is 2D platformer
